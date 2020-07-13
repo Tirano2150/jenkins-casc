@@ -17,4 +17,5 @@ def call() {
         additionalClasspath: [].join('\n'),
         additionalParameters: [repos: repos]
     }
+  }
 }
